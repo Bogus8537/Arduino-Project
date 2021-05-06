@@ -1,6 +1,6 @@
 void setup() {
   Serial.begin(9600);
-  Serial.println("=== Connected ===");
+  Serial.println("==== Arduino -- Pi Connected ====");
 }
 
 void loop() {
