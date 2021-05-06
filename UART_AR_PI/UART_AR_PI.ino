@@ -7,7 +7,6 @@ SoftwareSerial Serial_PI(RXP, TXP);
 
 void setup() {
   Serial.begin(9600);
-  Serial.println("===== UART ARD-PI =====");
   Serial_PI.begin(9600);
 }
 
