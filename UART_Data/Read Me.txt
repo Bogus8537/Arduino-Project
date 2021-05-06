@@ -1,0 +1,2 @@
+This project is for transfer the data value (0 ~ 1000) to other device (1:1 communication).
+In my case, I transferred it to RaspberryPi.
