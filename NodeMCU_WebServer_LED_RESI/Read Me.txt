@@ -1,7 +1,7 @@
 NodeMCU_WebServer_LED_RESI.ino is an Arduino project about Controlling LED (on / off) by CDS Sensor's value.
 
 I used the "NodeMCU ESP8266 V3 LOLIN" to connect WiFi and built it as a station mode.
-Also this system could check CDS Sensor's value and print through the WebPage by NodeMCU.
+Also this system could check CDS Sensor's value and print it in the WebPage by NodeMCU.
 Depending on the CDS's value, it's different that LED-BUILTIN or LED's turning on!
 
 There's 4 kinds of LED. One is LED-BUILTIN (It's built in NodeMCU) and others're LED lights.
